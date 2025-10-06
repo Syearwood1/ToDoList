@@ -47,7 +47,7 @@ function App() {
       Clear List
       </button>
       </div>
-      <p>When hovering an X should appear on the right allowing deletion</p>
+      
       
     </>
   )
